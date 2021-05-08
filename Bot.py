@@ -47,6 +47,3 @@ async def view(msg):
 async def remove(msg):
   if msg.content == '!remove':
     await msg.channel.send(animes)
-
-
-client.run('ODM4ODU2NTA1OTUxMzg3NjY5.YJBMAA.l4K8miiiVbT0dMf0-6x7jm5gBa4')
